@@ -1,16 +1,16 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "Cross-platform optical disc burning tool with a GUI and CLI (ISO 9660 / Joliet / UDF Bridge)",
   "homepage": "https://github.com/ouyangjiahong26/optiburn",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ouyangjiahong26/optiburn/releases/download/v0.1.6/optiburn-gui-x86_64-pc-windows-msvc-portable.zip",
-      "hash": "010b704f3d7a4aa65439b247d5e0e4212a19bb989f908bf3000ce5945ce1b016"
+      "url": "https://github.com/ouyangjiahong26/optiburn/releases/download/v0.1.8/optiburn-gui-x86_64-pc-windows-msvc-portable.zip",
+      "hash": "565035bc4a0e27ee8d45d02984d0650e0d7be68320c77cc5dfa2d2f91b1abbaa"
     },
     "arm64": {
-      "url": "https://github.com/ouyangjiahong26/optiburn/releases/download/v0.1.6/optiburn-gui-aarch64-pc-windows-msvc-portable.zip",
-      "hash": "7a7ce36be7781ba0a351bf517d13a6a92768104f1235978ca75e17f678b57e10"
+      "url": "https://github.com/ouyangjiahong26/optiburn/releases/download/v0.1.8/optiburn-gui-aarch64-pc-windows-msvc-portable.zip",
+      "hash": "721a2ad3a07fa5ce44710b7037768542f750fb69d6926def85416d66d6f4786a"
     }
   },
   "bin": [
